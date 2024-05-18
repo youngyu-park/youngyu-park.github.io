@@ -1,83 +1,197 @@
-div.header{
+/* General setting */
+
+div{
+    word-break: break-all;
+    table-layout: fixed;
+}
+
+span {
+    margin-right: 8ex;
+}
+
+a.menu {
+    text-align: center;
+    text-decoration: none;
+    color: #515151;
+    font-size: 10pt;
+}
+
+a.menu_now {
+    text-align: center;
+    text-decoration: none;
+    color: #969696;
+    font-size: 10pt;
+}
+
+a.link {
+    text-align: center;
+    text-decoration: underline;
+    color: #515151;
+}
+
+li.extended{
+    margin-bottom: 2ex;
+}
+
+/* Detailed setting */
+
+header.header_background {
+    background-color: #B5B5B5;
+    /*background-color: #356e77;*/
+    /*background-color: #BF5701;*/
+    max-width: 250ex;
+    min-width: 130ex;
     height: 5ex;
-    padding-top: 1ex;
-    padding-left: 3ex;
-    text-align: left;
-    vertical-align: middle;
-    background-color: black;
-    min-width: 180ex;
 }
 
-span.menu_bar{
-    margin-right: 10ex;
+div.page_background{
+    width: 130ex;
+    margin: auto;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
 }
 
-a.menu_bar{
-    text-decoration: none;
-    color: white;
+div.page_foreground{
+    margin-top: 5ex;
+    padding: 1ex 3%;
+    background-color: white;
+    width: 130ex;
 }
 
-
-
-span.menu_bar_now{
-    margin-right: 10ex;
-    color: lightgray;
-}
-
-a.menu_bar_now{
-    text-decoration: none;
-    color: lightgray;
-}
-
-div.header_colorbox{
-    height: 1ex;
-    background-color: gray;
-    min-width: 180ex;
-}
-
-p.header{
-    color: white;
-    vertical-align: middle;
-    min-width: 180ex;
-}
-
-
-div.container_main{
+div.content{
+    height: 250ex;
+    font-family: Arial;
     display: flex;
+    justify-content: center;
+    background-color: white;
 }
 
-div.container_left{
-    text-align: left;
-    min-width: 40ex;
-    max-width: 40ex;
-    background-color: #efefef;
-}
-div.container_right{
-    min-width: 115ex;
-    max-width: 115ex;
-    min-height: 100ex;
-    margin-bottom: 30ex;
-    padding-left: 5ex;
-}
 
-div.container_content{
-    padding: 3ex;
-    width: 100ex;
-}
-
-p.container_body{
-    max-width: 70ex;
+header.menu{
+    width: 125ex;
+    font-size: 13pt;
+    margin-top: 3ex;
     padding-left: 10ex;
-    padding-top: 10ex;
+    display: flex;
+    align-items: center;
+    background-color: white;
 }
 
-h3.body_header{
+hr.content_horizontal_bar{
+    width: 120ex
+}
+
+
+li.sub_extended {
     margin-bottom: 1ex;
-    color:#5e5e5e;
 }
 
+h4.title {
+    color: #515151;
+    font-size: 100%;
+}
 
-a.link{
-    text-decoration: none;
-    color: gray;
+td.row {
+    text-decoration-line: underline;
+}
+
+p.content {
+    text-align: justify;
+    word-break: keep-all;
+    justify-content: center;
+}
+
+h1.title{
+    font-size: 20pt;
+    width: 125ex;
+    margin-top: -2.5ex;
+    margin-bottom: .5ex;
+    display: fixed;
+    align-items: left;
+}
+
+h1.main{
+    font-size: 20pt;
+    width: 125ex;
+    margin-top: 1ex;
+    margin-bottom: 1ex;
+    padding-left: 1ex;
+    display: fixed;
+    align-items: left;
+}
+
+h2.main{
+    font-size: 17pt;
+    width: 125ex;
+    margin-top: 1ex;
+    margin-bottom: 1ex;
+    padding-left: 2ex;
+    display: fixed;
+    align-items: left;
+}
+
+p.main{
+    font-size: 11pt;
+    width: 125ex;
+    margin-top: 1ex;
+    padding-left: 3ex;
+    padding-right: 3ex;
+    display: fixed;
+    text-justify: inter-word;
+    align-items: left;
+    line-height:150%;
+}
+
+p.main_reference{
+    font-size: 11pt;
+    width: 125ex;
+    margin-top: 1ex;
+    margin-bottom: -.5ex;
+    margin-left: 2ex;
+    padding-left: 4.5ex;
+    text-indent:-1.5em;
+    padding-right: 3ex;
+    display: fixed;
+    text-justify: inter-word;
+    align-items: left;
+    line-height:90%;
+}
+
+li.lev1{
+    font-size: 11pt;
+    list-style-type : square;
+    padding-left:5ex;
+}
+
+li.lev2{
+    font-size: 11pt;
+    list-style-type : circle;
+    padding-left:10ex;
+}
+
+li.lev3{
+    font-size: 11pt;
+    list-style-type : none;
+    padding-left:15ex;
+}
+
+li.cont{
+    font-size: 11pt;
+    list-style-type: none;
+    padding-left: 14ex;
+}
+ul.announce{
+    list-style-type : square;
+    padding-left:5ex;
+}
+
+a.contact{
+    color: #717171;
+}
+
+div.image_container{
+    max-width: 120ex;
+    min-width: 120ex;
+    text-align: center;
 }
