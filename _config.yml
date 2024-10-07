@@ -8,6 +8,7 @@ url: "https://youngyu-park.github.io"
 
 # Build settings
 theme: minima
+asset_url: /assets
 plugins:
   - jekyll-feed
   - jekyll-sitemap
