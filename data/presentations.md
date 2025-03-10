@@ -28,7 +28,7 @@ style: main
 
 <br/>
 
-###### Accepted to
+###### &nbsp; &nbsp; Accepted to
 **Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated wh-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16. University of Wisconsin-Madison, Madison, Wisconsin. [Best Abstract Award Winner]
 
 **Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]
