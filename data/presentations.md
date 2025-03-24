@@ -30,7 +30,7 @@ style: main
 
 <br/>
 
-###### &nbsp; &nbsp; Accepted to
+###### &nbsp; &nbsp; **Accepted to**
 
 **Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach (title to be revised). *61st Annual Meeting of the Chicago Linguistic Society*. May 9-11, 2025. University of Chicago, Chicago, IL.
 
