@@ -7,7 +7,7 @@ style: main
 ## Conference presentations
 **Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated *wh*-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16. University of Wisconsin-Madison, Madison, Wisconsin. [Best Abstract Award Winner]
 
-**Park, Youn-Gyu**.  Sluicing for clarification: A discourse-based approach. *The 17th Annual Meeting of the Illinois Language and Linguistics Society (ILLS17)*.  March 7-8, 2025. University of Illinois Urbana-Champaign, Urbana, Illinois.
+<!--**Park, Youn-Gyu**.  Sluicing for clarification: A discourse-based approach. *The 17th Annual Meeting of the Illinois Language and Linguistics Society (ILLS17)*.  March 7-8, 2025. University of Illinois Urbana-Champaign, Urbana, Illinois.-->
 
 <!--**Park, Youn-Gyu**, Okgi Kim, and Jonb-Bok Kim.  Korean coordinated *wh*-questions: A theoretical and experimental perspective. *2024 Research Workshop on Fragments in Seoul*.  September 7, 2024. Kyung Hee University, Seoul, Korea.-->
 
