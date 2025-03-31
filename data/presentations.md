@@ -32,6 +32,6 @@ style: main
 
 ###### &nbsp; &nbsp; **Accepted conference(s)**
 
-**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach (title to be revised). *61st Annual Meeting of the Chicago Linguistic Society*. May 9-11, 2025. University of Chicago, Chicago, IL.
+**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach (title to be revised). *The 61st Annual Meeting of the Chicago Linguistic Society*. May 9-11, 2025. University of Chicago, Chicago, IL.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]-->
