@@ -21,7 +21,7 @@ Kyung Hee University. Seoul. South Korea.<br>
 
 <br>
 ## Research experiences<br>
-*Student Research Assistant* (Principal Investigator: Prof. Jong-Bok Kim) [July 2022 - July 2024]<br>
+**Student Research Assistant** (Principal Investigator: Prof. Jong-Bok Kim) [July 2022 - July 2024]<br>
 Response systems in natural languages: An empirical and experimental investigation.<br>
 National Research Foundation of Korea (KNRF).<br>
 
