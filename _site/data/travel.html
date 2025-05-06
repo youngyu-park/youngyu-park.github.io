@@ -3,13 +3,19 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>travel | Youn-Gyu Park</title>
+    <title>travel log | Youn-Gyu Park</title>
+
+    <!-- Font Awesome & Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
     <link href="./css/style.css" rel="stylesheet"/>
     <link rel="stylesheet" href="/assets/css/style.css">
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Mapbox GL CSS -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+
     <style>
         #map {
             height: 500px;
@@ -81,19 +87,23 @@
     <footer><div style="height: 40px;"></div></footer>
 </div>
 
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<!-- Mapbox GL JS -->
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
 <script>
-    var map = L.map('map').setView([37.5962, 127.0540], 13); // 경희대학교 위치
+    // ⚠️ Replace this with your actual Mapbox access token
+    mapboxgl.accessToken = 'pk.eyJ1IjoieW9vb3VuLTkiLCJhIjoiY21hYnNkcmRlMmQxbDJrb29nY2R2Y2J0bCJ9.tlb11Ueb_PdKH2C43E1kow';
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 18
-    }).addTo(map);
+    const map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11', // other options: satellite-v9, light-v10, etc.
+        center: [127.0540, 37.5962], // Kyung Hee University (lng, lat)
+        zoom: 13
+    });
 
-    L.marker([37.5962, 127.0540])
-        .addTo(map)
-        .bindPopup("Kyung Hee University, Seoul, Korea")
-        .openPopup();
+    new mapboxgl.Marker()
+        .setLngLat([127.0540, 37.5962])
+        .setPopup(new mapboxgl.Popup({ offset: 25 }).setText("Kyung Hee University, Seoul, Korea"))
+        .addTo(map);
 </script>
 
 </body>
