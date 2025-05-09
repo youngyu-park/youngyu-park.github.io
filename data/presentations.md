@@ -5,6 +5,9 @@ style: main
 ---
 
 ## Conference presentations
+
+**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach (title to be revised). *The 61st Annual Meeting of the Chicago Linguistic Society*. May 9-11, 2025. University of Chicago, Chicago, IL. [poster](https://youngyu-park.github.io/assets/downloads/park_2025_clarification_sluicing_poster_CLS.pdf)
+
 **Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated *wh*-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16. University of Wisconsin-Madison, Madison, Wisconsin. [Best Abstract Award Winner]
 
 <!--**Park, Youn-Gyu**.  Sluicing for clarification: A discourse-based approach. *The 17th Annual Meeting of the Illinois Language and Linguistics Society (ILLS17)*.  March 7-8, 2025. University of Illinois Urbana-Champaign, Urbana, Illinois.-->
@@ -30,8 +33,7 @@ style: main
 
 <br/>
 
+<!--
 ###### &nbsp; &nbsp; **Accepted conference(s)**
-
-**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach (title to be revised). *The 61st Annual Meeting of the Chicago Linguistic Society*. May 9-11, 2025. University of Chicago, Chicago, IL.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]-->
