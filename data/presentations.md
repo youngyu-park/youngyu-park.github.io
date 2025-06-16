@@ -6,9 +6,11 @@ style: main
 
 ## Selected presentations
 
-**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach. *The 61st Annual Meeting of the Chicago Linguistic Society (CLS61)*. May 9-11, 2025. University of Chicago, Chicago, IL. [(Poster)](https://youngyu-park.github.io/assets/downloads/park_2025_clarification_sluicing_poster_CLS.pdf)
+<!--**Park, Youn-Gyu**. Reverse sluicing in English: A discourse-based approach. *2025 Summer Conference of Korean Society for Language and Information (KSLI)*. June 14, 2025. Kyungpook National University, Daegu.-->
 
-**Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated *wh*-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16. University of Wisconsin-Madison, Madison, Wisconsin. [Best Abstract Award Winner]
+**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach. *The 61st Annual Meeting of the Chicago Linguistic Society (CLS61)*. May 9-11, 2025. University of Chicago, Chicago, IL. ([Poster](https://youngyu-park.github.io/assets/downloads/park_2025_clarification_sluicing_poster_CLS.pdf))
+
+**Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated *wh*-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16, 2025. University of Wisconsin-Madison, Madison, Wisconsin. [Best Abstract Award Winner]
 
 <!--**Park, Youn-Gyu**.  Sluicing for clarification: A discourse-based approach. *The 17th Annual Meeting of the Illinois Language and Linguistics Society (ILLS17)*.  March 7-8, 2025. University of Illinois Urbana-Champaign, Urbana, Illinois.-->
 
@@ -16,15 +18,15 @@ style: main
 
 <!--**Park, Youn-Gyu** and Okgi Kim. Similarities and differences between coordinated wh-questions in English and Korean. *Joint Workshop of Department of Language and Information, PNU & Institute for the Study of Language and Information, KHU (KHU-ISLI)*. April 26, 2024. Pusan National University, Busan. South Korea.-->
 
-**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments and their interaction with polarity: A discourse-based perspective. *The 23rd Meeting of the Texas Linguistics Society (TLS2024)*. Februrary 23-24 2024. University of Texas at Austin, Austin, Texas. USA.
+**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments and their interaction with polarity: A discourse-based perspective. *The 23rd Meeting of the Texas Linguistics Society (TLS2024)*. Februrary 23-24, 2024. University of Texas at Austin, Austin, Texas. USA.
 
 <!--**Park, Youn-Gyu**. Quatified fragments in English: A corpus-based perspective. *The 2023 LSK Young Scholar Symposium.* December 8 2023. Korea University, Seoul. South Korea.-->
 
-**Park, Youn-Gyu** and Jong-Bok Kim. Coordinated *wh*-questions in English: An HPSG approach. *The 30th International Conference on Head-Driven Phrase Structure Grammar (HPSG2023).* July 7-8 2023. University of Massachusetts Amherst, Massachusetts, Amherst. USA.
+**Park, Youn-Gyu** and Jong-Bok Kim. Coordinated *wh*-questions in English: An HPSG approach. *The 30th International Conference on Head-Driven Phrase Structure Grammar (HPSG2023).* July 7-8, 2023. University of Massachusetts Amherst, Massachusetts, Amherst. USA.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English all-cleft constructions: A construction-based approach. The 24th Annual International Conference of the English Department (AICED-24).* June 9-11 2023. University of Bucharest, Bucharest. Romania.-->
 
-**Park, Youn-Gyu** and Jong-Bok Kim. English *all*-cleft constructions: A corpus-based approach. *The 2023 Korean Association for Corpus Linguistics (KACL) - The Korean Association for the Study of English Language and Linguitsics (KASELL) Spring Joint Conference.* June 3 2023. Korea University, Seoul. South Korea.
+**Park, Youn-Gyu** and Jong-Bok Kim. English *all*-cleft constructions: A corpus-based approach. *The 2023 Korean Association for Corpus Linguistics (KACL) - The Korean Association for the Study of English Language and Linguitsics (KASELL) Spring Joint Conference.* June 3, 2023. Korea University, Seoul. South Korea.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. Coordinated *wh*-questions in English: A corpus-based approach. *The 39th Northwest Linguistics Conference (NWLC39).* May 13-14 2023. University of Victoria, Victoria. Canada.-->
 
