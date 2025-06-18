@@ -9,15 +9,15 @@ style: main
 **Teaching Assistant**<br>
 *Understanding English syntactic structures* (Instructor: Prof. Jong-Bok Kim) [Spring 2023, Spring 2024]<br>
 Department of English Linguistics and Literature.<br>
-Kyung Hee University. Seoul. South Korea.<br>
+Kyung Hee University, Seoul.<br>
 
 *Introduction to English Semantics and Pragmatics* (Instructor: Prof. Jong-Bok Kim) [Fall 2023]<br>
 Department of English Linguistics and Literature.<br>
-Kyung Hee University. Seoul. South Korea.<br>
+Kyung Hee University, Seoul.<br>
 
 *Contrastive analysis of English and Korean* (Instructor: Prof. Jong-Bok Kim) [Fall 2023]<br>
 Department of English Linguistics and Literature.<br>
-Kyung Hee University. Seoul. South Korea.<br>
+Kyung Hee University, Seoul.<br>
 
 <br>
 ## Research experiences<br>
@@ -32,14 +32,14 @@ The Linguistic Society of Korea [August 2023 - August 2024]<br>
 
 **Administrative Associate**<br>
 Department of English Linguistics and Literature. [January 2022 - December 2022] <br>
-Kyung Hee University. Seoul <br>
+Kyung Hee University, Seoul <br>
 
 <br>
 ## Non-degree trainings<br>
 **LSK-Simone Linguistic School** <br>
 The Linguistic Society of Korea. [2023] <br>
-August 7-9. Kyung Hee University, Seoul. South Korea <br>
+August 7-9. Kyung Hee University, Seoul. <br>
 
 **LSK-Simone Linguistic School**
 The Linguistic Society of Korea. [2022] <br>
-August 8-10. Korea University, Seoul. South Korea <br>
+August 8-10. Korea University, Seoul. <br>

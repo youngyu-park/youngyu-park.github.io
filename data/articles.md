@@ -13,4 +13,4 @@ title: "articles"
 ## Conference abstracts
 **Park, Youn-Gyu** and Jong-Bok Kim. 2023. Coordinated *wh*-questions in English: An HPSG approach.
 Paper presented at *the 30th International Conference on Head-Driven Phrase Structure Grammar*.
-July. 07-08. University of Massachusetts Amherst, Massachusetts, Amherst. USA. ([Abstract](https://www.acsu.buffalo.edu/~fabiolah/hpsg23/abstracts/Park_Kim.pdf))
+July. 07-08. University of Massachusetts Amherst, Amherst, MA. USA. ([Abstract](https://www.acsu.buffalo.edu/~fabiolah/hpsg23/abstracts/Park_Kim.pdf))
