@@ -35,7 +35,8 @@ style: main
 
 <br/>
 
-<!--
-###### &nbsp; &nbsp; **Accepted conference(s)**
+
+###### &nbsp; &nbsp; **Accepted presentation(s)**
+**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (NELS 56)*. October 17-19, 2025. New York University, New York, NY.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]-->
