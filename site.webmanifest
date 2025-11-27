@@ -1,0 +1,20 @@
+{
+  "name": "Youn-Gyu Park Blog",
+  "short_name": "YG Blog",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+        "src": "/assets/icons/favicon-longhorn.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/assets/icons/favicon-longhorn.ico",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+    ]
+}
