@@ -6,7 +6,7 @@ style: main
 
 ## Selected presentations
 
-**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (NELS 56)*. October 17-19, 2025. New York University, New York, NY. ([SLIDE](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
+**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (NELS 56)*. October 17-19, 2025. New York University, New York, NY. ([SLIDES](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
 
 **Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 27th Seoul International Conference on Generative Grammar (SICOGG 27)*. August 14-16, 2025. Sogang University, Seoul, Korea. ([POSTER](https://youngyu-park.github.io/assets/downloads/kor_neg_q_poster_SICOGG.pdf))
 

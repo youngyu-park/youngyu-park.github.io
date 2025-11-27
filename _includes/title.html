@@ -1,17 +1,48 @@
-<div>
-    <div class = content style = "background-color: white; width: 130ex">
-        <br>
-        <h1 class="title" style="margin-bottom: 3ex; margin-left:2ex; padding-top: 1ex; font-size: 25pt">
-            Youn-Gyu Park
-            <br>
-        </h1>
-        <p style="text-align: left; margin-top: -6ex; margin-left:2ex; font-size: 12pt">
-            <b>박윤규</b> /p&#x0251;&#609;. juŋ-&#609;ju/
-        </p>
-        <p style="text-align: right; margin-top: -8ex; margin-right:6ex; font-size: 10pt">
-            Ph.D. Student<br>
-            Department of Linguistics<br>
-            The University of Texas at Austin
-        </p>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link href="./css/style.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+</head>
+
+<body>
+    <div class="page_background">
+        <div class = "page_foreground">
+
+            <div class = "content_left">
+                {% include content_left.html %}
+
+                {% include menu.html %}
+
+            </div>
+            
+            <div class = "content_right">
+
+                {{ content }}
+
+            </div>
+
+        </div>
+            
+        <div class = "content_bottom">
+
+            {% include contact.html %}
+        
+        </div>
     </div>
-</div>
+
+</body>
+
+
+
+</html>

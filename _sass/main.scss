@@ -13,7 +13,7 @@ footer {
 }
 
 div.page_background{
-    width: 130ex;
+    width: 140ex;
     margin: auto;
     display: grid;
     place-items: center;
@@ -21,7 +21,10 @@ div.page_background{
 }
 
 div.page_foreground {
-    width: 130ex;
+    display: flex;
+    flex-direction: row;
+    gap: 5ex;
+    width: 135ex;
     margin-top: 5ex;
     background-color: white;
 }
@@ -32,7 +35,10 @@ div.title {
 }
 
 a.menu {
-    text-align: center;
+    margin-left: 4ex;
+    margin-bottom: -2ex;
+    text-align: left;
+    display: block;
     text-decoration: none;
     color: #515151;
     font-size: 11pt;
@@ -47,13 +53,28 @@ a.menu {
     min-height: 100vh;
 }
 
+.content_left {
+    position: fixed;
+    height: auto;
+    flex: 1;
+    background-color: white;
+}
+
+.content_right {
+    margin-top: 10ex;
+    padding-left: 35ex;
+    flex: 2;
+    background-color: white;
+}
+
 
 div.foreground {
     text-align: center;
 }
 
 span.menu {
-    margin: 0 50px 0 50px;
+    margin: 0 5ex 0 5ex;
+    padding-bottom: 5ex
 }
 
 menu {
@@ -67,7 +88,15 @@ menu {
 
 
 hr.content_horizontal_bar{
-    width: 120ex
+    width: 132.5ex
+}
+
+hr.content_vertical_bar{
+    display: flex;
+    flex-direction: column;   /* 세로 방향 */
+    align-items: flex-start;
+    width: 35ex;
+    margin-left: 2.5ex;
 }
 
 
@@ -78,7 +107,12 @@ body {
 
 div.content_body {
     padding-left: 5ex;
-    width: 115ex;
+    width: 140ex;
+}
+
+div.content_bottom {
+    padding-left: 5ex;
+    width: 140ex;
 }
 
 .container {
