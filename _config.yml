@@ -1,0 +1,14 @@
+title: Youn-Gyu Park
+email: youngyu.park@utexas.edu
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://youngyu-park.github.io"
+#url: "youngyu-park.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+theme: minima
+asset_url: /assets
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
