@@ -21,12 +21,33 @@ div.page_background{
 }
 
 div.page_foreground {
-    display: flex;
+    display: block;
     flex-direction: row;
     gap: 5ex;
     width: 135ex;
     margin-top: 5ex;
     background-color: white;
+}
+
+/* ----- MOBILE RESPONSIVE ----- */
+@media (max-width: 768px) {
+
+    .content_left {
+        position: relative;   /* fixed 해제 */
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .content_right {
+        margin-left: 0;
+        padding: 20px;
+    }
+
+    .page_foreground {
+        display: block;
+    }
 }
 
 div.title {
@@ -55,14 +76,15 @@ a.menu {
 .content_left {
     position: fixed;
     height: auto;
-    flex: 1;
+    width: 35ex;
+    overflow-y: auto;
     background-color: white;
 }
 
 .content_right {
     margin-top: 10ex;
-    padding-left: 35ex;
-    flex: 2;
+    margin-left: 35ex;
+    flex: 1;
     background-color: white;
 }
 
