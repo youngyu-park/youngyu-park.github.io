@@ -52,23 +52,23 @@ a.menu {
     min-height: 100vh;
 }
 
+.page_foreground {
+    display: flex;
+}
+
 .content_left {
     position: fixed;
-    height: auto;
-    flex: 1;
+    top: 0;
+    left: 0;
+    height: 100%;
     background-color: white;
 }
 
 .content_right {
-    margin-top: 10ex;
-    padding-left: 35ex;
+    margin-top: 5ex;
+    margin-left: 30ex;
     flex: 2;
     background-color: white;
-}
-
-
-div.foreground {
-    text-align: center;
 }
 
 span.menu {

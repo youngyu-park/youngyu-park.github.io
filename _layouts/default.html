@@ -21,15 +21,14 @@
 
             <div class = "content_left">
                 {% include content_left.html %}
-
-                {% include menu.html %}
-
             </div>
             
-            <div class = "content_right">
+            <div>
+                <div class = "content_right">
 
-                {{ content }}
+                    {{ content }}
 
+                </div>
             </div>
 
         </div>
@@ -41,6 +40,16 @@
         </div>
     </div>
 
+    <script>
+        const leftElem = document.querySelector('.content_left');
+        const parent = leftElem.parentElement;
+
+        window.addEventListener('scroll', () => {
+            const parentRect = parent.getBoundingClientRect();
+            leftElem.style.left = parentRect.left + 'px';
+        });
+    </script>
+    
 </body>
 
 
