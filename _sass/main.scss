@@ -12,22 +12,6 @@ footer {
     width: 100%;
 }
 
-div.page_background{
-    width: 140ex;
-    margin: auto;
-    display: grid;
-    place-items: center;
-    overflow: hidden;
-}
-
-div.page_foreground {
-    display: flex;
-    flex-direction: row;
-    gap: 5ex;
-    width: 135ex;
-    margin-top: 5ex;
-    background-color: white;
-}
 
 div.title {
     height: 175px;
@@ -52,23 +36,33 @@ a.menu {
     min-height: 100vh;
 }
 
+.page_background {
+    width: 140ex;
+    margin: auto;
+    display: grid;
+    overflow: hidden;
+    justify-content: center;
+}
+
 .page_foreground {
     display: flex;
+    width: 100%;
+    position: relative;
 }
 
 .content_left {
     position: fixed;
     top: 0;
-    left: 0;
-    height: 60%;
+    width: 25ex;
+    height: 100%;
     background-color: white;
 }
 
 .content_right {
-    margin-top: 5ex;
-    margin-left: 30ex;
-    flex: 2;
+    margin-left: 35ex;
+    flex: 1;
     background-color: white;
+    padding: 2ex;
 }
 
 span.menu {
