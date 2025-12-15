@@ -78,7 +78,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "place": "Daegu, KR", "color": "#00b600", "why": "Cuz I can!" },
+      "properties": { "place": "Daegu, KR", "color": "#00b600", "why": "for conference" },
       "geometry": { "type": "Point", "coordinates": [128.6014, 35.8714] }
     },
     {
@@ -95,6 +95,11 @@
       "type": "Feature",
       "properties": { "place": "Philladelphia, PA", "color": "#0055b6", "why": "for conference" },
       "geometry": { "type": "Point", "coordinates": [-75.1652, 39.9526] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "San Antonio, TX", "color": "#0055b6", "why": "for conference" },
+      "geometry": { "type": "Point", "coordinates": [-98.4936, 29.4241] }
     }
   ]
 }

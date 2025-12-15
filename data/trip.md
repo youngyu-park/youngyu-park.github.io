@@ -97,5 +97,6 @@ Let’s see how many cities I can travel to before my degree!
   <li>Newark, DE</li>
   <li>Philladelphia, PA</li>
   <li>New Orleans, LA</li>
+  <li>San Antonio, TX</li>
   <li>Dallas, TX</li>
 </ul>
