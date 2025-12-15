@@ -80,6 +80,11 @@
       "type": "Feature",
       "properties": { "place": "Daegu, KR", "color": "#00b600", "why": "Cuz I can!" },
       "geometry": { "type": "Point", "coordinates": [128.6014, 35.8714] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Boston, MA", "color": "#0055b6", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [42.3601, 71.0589] }
     }
   ]
 }
