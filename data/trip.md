@@ -33,7 +33,7 @@ Let’s see how many cities I can travel to before my degree!
       const geoLayer = L.geoJSON(data, {
         pointToLayer: (feature, latlng) =>
           L.circleMarker(latlng, {
-            radius: 1.5,
+            radius: 1,
             fillOpacity: 0.8,
             color: feature.properties.color || "#333"
           }),
@@ -53,7 +53,7 @@ Let’s see how many cities I can travel to before my degree!
     });
 </script>
 
-<p></p>
+<br>
 <b>Went to school there</b>
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>Seoul, KR</li>
@@ -61,29 +61,41 @@ Let’s see how many cities I can travel to before my degree!
 </ul>
 
 
-<b>Flew there</b>
+<b>Flew there</b><br>
+2024
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
-  <li>Jeju island, KR</li>
   <li>Tokyo, JP</li>
-  <li>Osaka, JP</li>
   <li>San Fransisco, CA</li>
+  <li>Osaka, JP</li>
+</ul>
+2025
+<ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>Chicago, IL</li>
+  <li>Jeju island, KR</li>
+  <li>New York, NY</li>
   <li>Boston, MA</li>
   <li>Mansfield, CT</li>
 </ul>
 
 
-<b>Trained there</b>
+<b>Trained there</b><br>
+2025
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>Daegu, KR</li>
 </ul>
 
-<b>Drove there</b>
+<b>Drove there</b><br>
+2024
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
-  <li>Newark, DE</li>
-  <li>New Orleans, LA</li>
-  <li>Fort Davis, TX</li>
-  <li>Corpus Christi, TX</li>
-  <li>Dallas, TX</li>
   <li>St. Louis, MO</li>
+  <li>Corpus Christi, TX</li>
+  <li>Fort Davis, TX</li>
+</ul>
+2025
+<ul style="margin-top: -1.5ex; margin-left: 5ex">
+  <li>St. Louis, MO</li>
+  <li>Newark, DE</li>
+  <li>Philladelphia, PA</li>
+  <li>New Orleans, LA</li>
+  <li>Dallas, TX</li>
 </ul>
