@@ -4,10 +4,13 @@ title: "trip"
 style: main
 ---
 
-## Cities I've been to!
+## Cities I've been to
+Let’s see how many cities I can travel to before my degree!
 
+<div style="width: 100ex; height: 50ex;">
+<div id="map" style="width: 90%; height: 100%; border-radius: 10px; margin-left: 10ex; margin-bottom: 5ex"></div>
+</div>
 
-<div id="map" style="width: 110ex; height: 50ex; margin: 5ex auto; border-radius: 10px;"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -18,6 +21,7 @@ style: main
     maxBounds: [[-90, -180],[90, 180]],
     maxBoundsViscosity: 1.0,
   }).setView([0, 0], 2.5);
+  setTimeout(() => {map.invalidateSize();}, 200);
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap",
@@ -49,7 +53,7 @@ style: main
     });
 </script>
 
-
+<p></p>
 <b>Went to school there</b>
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>Seoul, KR</li>

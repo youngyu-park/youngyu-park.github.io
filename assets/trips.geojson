@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": { "place": "Boston, MA", "color": "#0055b6", "why": "Cuz I can!" },
-      "geometry": { "type": "Point", "coordinates": [42.3601, 71.0589] }
+      "geometry": { "type": "Point", "coordinates": [-71.0589, 42.3601] }
     }
   ]
 }
