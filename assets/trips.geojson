@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "place": "Seoul", "color": "#b60005", "why": "for school" },
+      "geometry": { "type": "Point", "coordinates": [126.9780, 37.5665] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Jeju", "color": "#0055b6", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [126.5312, 33.4996] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Osaka", "color": "#0055b6", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [135.5023, 34.6937] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Tokyo", "color": "#0055b6", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [139.6917, 35.6895] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "San Francisco, CA", "color": "#0055b6", "why": "Layover" },
+      "geometry": { "type": "Point", "coordinates": [-122.4194, 37.7749] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Chicago, IL", "color": "#0055b6", "why": "for conference" },
+      "geometry": { "type": "Point", "coordinates": [-87.6298, 41.8781] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "New York, NY", "color": "#0055b6", "why": "for conference" },
+      "geometry": { "type": "Point", "coordinates": [-74.0060, 40.7128] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Delaware, DE", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-75.5277, 38.9108] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "New Orleans, LA", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-90.0715, 29.9511] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Corpus Christi, TX", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-97.3964, 27.8006] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Dallas, TX", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-96.7970, 32.7767] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Austin, TX", "color": "#BF5700", "why": "for school" },
+      "geometry": { "type": "Point", "coordinates": [-97.7431, 30.2672] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Mansfield, CT", "color": "#0055b6", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-72.2626, 41.7599] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Fort Davis, TX", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-103.9560, 30.5883] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "St. Louis, MO", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-90.1994, 38.6270] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Daegu, KR", "color": "#00b600", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [128.6014, 35.8714] }
+    }
+  ]
+}
