@@ -38,8 +38,8 @@
     },
     {
       "type": "Feature",
-      "properties": { "place": "Delaware, DE", "color": "#000000", "why": "Cuz I can!" },
-      "geometry": { "type": "Point", "coordinates": [-75.5277, 38.9108] }
+      "properties": { "place": "Newark, DE", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-75.7497, 39.6837] }
     },
     {
       "type": "Feature",
@@ -88,7 +88,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "place": "Calgary, CA", "color": "#0055b6", "why": "layover" },
+      "properties": { "place": "Calgary, AB", "color": "#0055b6", "why": "layover" },
       "geometry": { "type": "Point", "coordinates": [-114.0719, 51.0447] }
     },
     {
