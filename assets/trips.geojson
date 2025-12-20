@@ -110,6 +110,6 @@
       "type": "Feature",
       "properties": { "place": "Stony Brook, NY", "color": "#000000", "why": "Cuz I can!" },
       "geometry": { "type": "Point", "coordinates": [-73.1167, 40.9167] }
-    },
+    }
   ]
 }
