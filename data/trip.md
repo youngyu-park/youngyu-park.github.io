@@ -5,7 +5,7 @@ style: main
 ---
 
 ## Cities I've been to
-Let’s see how many cities I can travel to before my degree!
+Let’s see how many cities I travel before my degree!
 
 <div style="width: 100ex; height: 50ex;">
 <div id="map" style="width: 90%; height: 100%; border-radius: 10px; margin-left: 10ex; margin-bottom: 5ex"></div>
