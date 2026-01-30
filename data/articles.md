@@ -10,7 +10,17 @@ title: "articles"
 *Korean Journal of English Language and Linguistics*. 23. 571-586. ([Download](http://journal.kasell.or.kr/xml/37290/37290.pdf))
 
 <br>
+
 ## Conference abstracts
 **Park, Youn-Gyu** and Jong-Bok Kim. 2023. Coordinated *wh*-questions in English: An HPSG approach.
 Paper presented at *the 30th International Conference on Head-Driven Phrase Structure Grammar*.
 July. 07-08. University of Massachusetts Amherst, Amherst, MA. USA. ([Abstract](https://www.acsu.buffalo.edu/~fabiolah/hpsg23/abstracts/Park_Kim.pdf))
+
+<br>
+
+## In Prep
+**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based perspective.
+
+**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse.
+
+**Park, Youn-Gyu**. English *not ... but ...* correlative coordination constructions: An ellipsis approach.
