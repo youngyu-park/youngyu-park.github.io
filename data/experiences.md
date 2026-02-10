@@ -7,6 +7,10 @@ style: main
 ## Teaching experiences
 
 **Teaching Assistant**<br>
+*Syntax and Semantics* (Instructor: Prof. Akshay Aitha) [Spring 2026]<br>
+Department of Linguistics.<br>
+The University of Texas at Austin.<br>
+
 *Syntax and Semantics* (Instructor: Prof. John Beavers) [Fall 2025]<br>
 Department of Linguistics.<br>
 The University of Texas at Austin.<br>
