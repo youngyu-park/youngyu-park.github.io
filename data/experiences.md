@@ -12,8 +12,7 @@ Department of Linguistics.<br>
 The University of Texas at Austin.<br>
 
 *Syntax and Semantics* (Instructor: Prof. John Beavers) [Fall 2025]<br>
-Department of Linguistics.<br>
-The University of Texas at Austin.<br>
+> Department of Linguistics.<br>The University of Texas at Austin.<br>
 
 *Understanding English syntactic structures* (Instructor: Prof. Jong-Bok Kim) [Spring 2023, Spring 2024]<br>
 Department of English Linguistics and Literature.<br>
