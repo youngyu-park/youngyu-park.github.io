@@ -6,6 +6,8 @@ style: main
 
 ## Selected presentations
 
+**Park, Youn-Gyu**. What we want to do is (to) glimpse into how LMs learn language. Poster presented *The Twenty-Fifth Meeting of the Texas Linguistics Society (TLS 2026)*. Feburary 20-21, 2026. University of Texas at Austin, Austin, TX. ([POSTER](https://youngyu-park.github.io/assets/downloads/park2026_llm_acquisition_eng_cleft_tls_poster.pdf))
+
 **Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (NELS 56)*. October 17-19, 2025. New York University, New York, NY. ([SLIDES](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
 
 **Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 27th Seoul International Conference on Generative Grammar (SICOGG 27)*. August 14-16, 2025. Sogang University, Seoul, Korea. ([POSTER](https://youngyu-park.github.io/assets/downloads/kor_neg_q_poster_SICOGG.pdf))
