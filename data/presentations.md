@@ -8,13 +8,13 @@ style: main
 
 **Park, Youn-Gyu**. What we want to do is (to) glimpse into how LMs learn language. Poster presented *The Twenty-Fifth Meeting of the Texas Linguistics Society (TLS 2026)*. Feburary 20-21, 2026. University of Texas at Austin, Austin, TX. ([POSTER](https://youngyu-park.github.io/assets/downloads/park2026_llm_acquisition_eng_cleft_tls_poster.pdf))
 
-**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (NELS 56)*. October 17-19, 2025. New York University, New York, NY. ([SLIDES](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
+**Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (<b>NELS 56</b>)*. October 17-19, 2025. New York University, New York, NY. ([SLIDES](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
 
 **Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 27th Seoul International Conference on Generative Grammar (SICOGG 27)*. August 14-16, 2025. Sogang University, Seoul, Korea. ([POSTER](https://youngyu-park.github.io/assets/downloads/kor_neg_q_poster_SICOGG.pdf))
 
 <!--**Park, Youn-Gyu**. Reverse sluicing in English: A discourse-based approach. *2025 Summer Conference of Korean Society for Language and Information (KSLI)*. June 14, 2025. Kyungpook National University, Daegu, Korea.-->
 
-**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach. *The 61st Annual Meeting of the Chicago Linguistic Society (CLS61)*. May 9-11, 2025. University of Chicago, Chicago, IL. ([POSTER](https://youngyu-park.github.io/assets/downloads/park_2025_clarification_sluicing_poster_CLS.pdf))
+**Park, Youn-Gyu**. Sluicing for clarification: A discourse-based approach. *The 61st Annual Meeting of the Chicago Linguistic Society (<b>CLS61</b>)*. May 9-11, 2025. University of Chicago, Chicago, IL. ([POSTER](https://youngyu-park.github.io/assets/downloads/park_2025_clarification_sluicing_poster_CLS.pdf))
 
 **Park, Youn-Gyu**, Okgi Kim, and Jong-Bok Kim. Korean coordinated *wh*-questions: An experimental approach. *The 19th Workshop in General Lingusitics (WiGL 19).* March 14-16, 2025. University of Wisconsin-Madison, Madison, WI. [Best Abstract Award Winner]
 
