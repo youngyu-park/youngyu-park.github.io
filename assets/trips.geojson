@@ -110,6 +110,16 @@
       "type": "Feature",
       "properties": { "place": "Stony Brook, NY", "color": "#000000", "why": "Cuz I can!" },
       "geometry": { "type": "Point", "coordinates": [-73.1167, 40.9167] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "College Station, TX", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-96.3344, 30.62798] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Houston, TX", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-95.3698, 29.7604] }
     }
   ]
 }

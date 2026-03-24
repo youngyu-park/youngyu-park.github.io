@@ -100,3 +100,8 @@ Let’s see how many cities I travel before my degree!
   <li>San Antonio, TX</li>
   <li>Dallas, TX</li>
 </ul>
+2026
+<ul style="margin-top: -1.5ex; margin-left: 5ex">
+  <li>College Station, TX</li>
+  <li>Houston, TX</li>
+</ul>
