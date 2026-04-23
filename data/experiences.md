@@ -7,11 +7,11 @@ style: main
 ## Teaching experiences
 
 **Teaching Assistant**<br>
-*Syntax and Semantics* (Instructor: Prof. Akshay Aitha) [Spring 2026]<br>
+*Syntax and Semantics: The Structure and Meaning of Utterances* (Instructor: Prof. Akshay Aitha) [Spring 2026]<br>
 Department of Linguistics.<br>
 The University of Texas at Austin.<br>
 
-*Syntax and Semantics* (Instructor: Prof. John Beavers) [Fall 2025]<br>
+*Syntax and Semantics: The Structure and Meaning of Utterances* (Instructor: Prof. John Beavers) [Fall 2025]<br>
 Department of Linguistics.<br>
 The University of Texas at Austin.<br>
 
@@ -26,6 +26,21 @@ Kyung Hee University, Seoul.<br>
 *Contrastive analysis of English and Korean* (Instructor: Prof. Jong-Bok Kim) [Fall 2023]<br>
 Department of English Linguistics and Literature.<br>
 Kyung Hee University, Seoul.<br>
+
+
+**Guest lectures**<br>
+*English be-of-NP constructions: A corpus investigation* (Intro. to Linguistics, Assistant Intstructor: Orfila Lee) [Apr 24 2026]<br>
+Department of Linguistics.<br>
+The University of Texas at Austin, Austin, TX.<br>
+
+*Syntax!* (Intro. to Linguistics, Assistant Intstructor: Catalina Santamaria-Soto) [Apr 14 2026]<br>
+Department of Linguistics.<br>
+The University of Texas at Austin, Austin, TX.<br>
+
+*\*< &nbsp; &nbsp; &nbsp; > (\*Ellipsis)* (Syntax and Semantics: The Structure and Meaning of Utterances, Instructor: Prof. John Beavers) [Oct 18 2025]<br>
+Department of Linguistics.<br>
+The University of Texas at Austin, Austin, TX.<br>
+
 
 <br>
 ## Research experiences<br>
