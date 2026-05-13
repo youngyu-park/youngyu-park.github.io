@@ -120,6 +120,26 @@
       "type": "Feature",
       "properties": { "place": "Houston, TX", "color": "#000000", "why": "Cuz I can!" },
       "geometry": { "type": "Point", "coordinates": [-95.3698, 29.7604] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Page, AZ", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-111.4558, 36.9147] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Santa Fe, NM", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-105.9378, 35.6870] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "White Sands, NM", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-106.3331, 32.7791] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "place": "Roswell, NM", "color": "#000000", "why": "Cuz I can!" },
+      "geometry": { "type": "Point", "coordinates": [-104.5230, 33.3943] }
     }
   ]
 }

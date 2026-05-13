@@ -104,4 +104,8 @@ Let’s see how many cities I travel before my degree!
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>College Station, TX</li>
   <li>Houston, TX</li>
+  <li>White Sands, NM</li>
+  <li>Page, AZ</li>
+  <li>Santa Fe, NM</li>
+  <li>Roswell, NM</li>
 </ul>
