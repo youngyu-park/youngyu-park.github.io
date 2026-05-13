@@ -78,7 +78,7 @@ Let’s see how many cities I travel before my degree!
 </ul>
 
 
-<b>Trained there</b><br>
+<b>By Train/Bus</b><br>
 2025
 <ul style="margin-top: -1.5ex; margin-left: 5ex">
   <li>Daegu, KR</li>
