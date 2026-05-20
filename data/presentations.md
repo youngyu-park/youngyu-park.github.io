@@ -44,6 +44,6 @@ style: main
 
 ###### &nbsp; &nbsp; **Accepted conference(s)**
 
-**Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 33rd Japanese/Korean Linguistics Conference*.  August 6-9, 2026. University of Illinois Urbana-Champaign, Urbana, Illinois.
+**Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 33rd Japanese/Korean Linguistics Conference* (<b>JK33</b>)).  August 6-9, 2026. University of Illinois Urbana-Champaign, Urbana, Illinois.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]-->
