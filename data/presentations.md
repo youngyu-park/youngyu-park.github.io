@@ -6,6 +6,8 @@ style: main
 
 ## Selected presentations
 
+<!--**Park, Youn-Gyu**. Do Language Models Distinguish Focus from Topic? Evidence from Case Markers in Korean. *The 2026 The Korean Association for the Study of English Language and Linguitsics (KASELL) - Korean Society for Language and Information (KSLI) Summer Joint Conference.*. June 13, 2026. Seoul National University of Science and Technology, Seoul, Korea.-->
+
 **Park, Youn-Gyu**. What we want to do is (to) glimpse into how LMs learn language. Poster presented *The Twenty-Fifth Meeting of the Texas Linguistics Society (TLS 2026)*. Feburary 20-21, 2026. University of Texas at Austin, Austin, TX. ([POSTER](https://youngyu-park.github.io/assets/downloads/park2026_llm_acquisition_eng_cleft_tls_poster.pdf))
 
 **Park, Youn-Gyu**. Two types of reverse sluicing in English: Focusing on discourse. *The 56th Annual Meeting of the North East Linguistics Society (<b>NELS 56</b>)*. October 17-19, 2025. New York University, New York, NY. ([SLIDES](https://youngyu-park.github.io/assets/downloads/park_2025_eng_rev_sluicing_slide_NELS56.pdf))
@@ -44,6 +46,6 @@ style: main
 
 ###### &nbsp; &nbsp; **Accepted conference(s)**
 
-**Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 33rd Japanese/Korean Linguistics Conference* (<b>JK33</b>).  August 6-9, 2026. University of Illinois Urbana-Champaign, Urbana, Illinois.
+**Park, Youn-Gyu**. Negative polar questions and bias in Korean. *The 33rd Japanese/Korean Linguistics Conference (JK33)*.  August 6-9, 2026. University of Illinois Urbana-Champaign, Urbana, Illinois.
 
 <!--**Park, Youn-Gyu** and Jong-Bok Kim. English quantified fragments: A corpus-based approach. *The 16th Annual Meeting of the Illinois Language and Linguistics Society (ILLS16)*.  March 1-2, 2024. University of Illinois Urbana-Champaign, Urbana, Illinois. [Travel grant winner]-->
